@@ -1,0 +1,88 @@
+{
+  "login": {
+    "appName": "TaskFlow Pro",
+    "appTagline": "Élevez votre productivité",
+    "welcomeBack": "Bon retour",
+    "signInMessage": "Connectez-vous à votre compte pour continuer",
+    "email": "Adresse e-mail",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "show": "Afficher",
+    "hide": "Masquer",
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "signIn": "Se connecter",
+    "orContinueWith": "Ou continuer avec",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "createAccount": "Créer un compte",
+    "invalidCredentials": "E-mail ou mot de passe invalide. Veuillez réessayer.",
+    "unexpectedError": "Une erreur inattendue s'est produite. Veuillez réessayer plus tard.",
+    "footerCopyright": "©2025 Sopra HR Software. Tous droits réservés.",
+    "footerPrivacy": "Politique de confidentialité",
+    "footerTerms": "Conditions d'utilisation",
+    "footerSupport": "Support",
+    "carousel": [
+      {
+        "title": "Optimisez votre flux de travail",
+        "description": "Organisez les tâches, définissez les priorités et suivez les progrès avec notre interface intuitive conçue pour une productivité maximale.",
+        "icon": "M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"
+      },
+      {
+        "title": "Collaborez sans effort",
+        "description": "Travaillez ensemble avec votre équipe en temps réel. Partagez des projets, assignez des tâches et communiquez efficacement.",
+        "icon": "M16 4c0-1.11.89-2 2-2s2 .89 2 2c0 1.11-.89 2-2 2s-2-.89-2-2zM4 18v-1c0-1.38 2.239-2.5 5-2.5s5 1.12 5 2.5V18H4z"
+      },
+      {
+        "title": "Suivez vos progrès",
+        "description": "Surveillez vos réalisations avec des analyses détaillées et des insights pour optimiser votre productivité.",
+        "icon": "M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 8V6z"
+      },
+      {
+        "title": "Restez organisé",
+        "description": "Gardez tout au même endroit avec une catégorisation intelligente et de puissantes capacités de recherche.",
+        "icon": "M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"
+      }
+    ]
+  },
+  
+"forgot": {
+    "title": "Mot de passe oublié",
+    "subtitle": "Entrez votre e-mail pour réinitialiser votre mot de passe.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "sendLink": "Envoyer le lien de réinitialisation",
+    "successMessage": "Si cet e-mail est enregistré, vous recevrez un lien de réinitialisation sous peu.",
+    "errorMessage": "Impossible d'envoyer le lien de réinitialisation. Veuillez réessayer.",
+    "backToLogin": "Retour à la connexion",
+    "codeLabel": "Entrez le code à 6 chiffres",
+    "codePlaceholder": "123456",
+    "newPasswordLabel": "Nouveau mot de passe",
+    "newPasswordPlaceholder": "Entrez votre nouveau mot de passe",
+    "sendCode": "Envoyer le code",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "resendCode": "Renvoyer le code",
+    "verifyCode": "Vérifier le code",
+    "confirmPasswordLabel": "Confirmer le nouveau mot de passe",
+    "confirmPasswordPlaceholder": "Retapez votre nouveau mot de passe",
+    "codeError": "Code invalide. Veuillez réessayer.",
+    "expiredCode": "Code expiré. Veuillez en demander un nouveau.",
+    "emailNotFoundError": "Cette adresse e-mail n'existe pas. Veuillez vérifier ou créer un compte." 
+  },
+
+  "reset": {
+    "title": "Réinitialiser le mot de passe",
+    "subtitle": "Entrez votre email et le code que nous vous avons envoyé pour réinitialiser votre mot de passe.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Entrez votre email",
+    "codeLabel": "Code",
+    "codePlaceholder": "Entrez le code à 6 chiffres",
+    "passwordLabel": "Nouveau mot de passe",
+    "passwordPlaceholder": "Entrez votre nouveau mot de passe",
+    "confirmPasswordLabel": "Confirmer le mot de passe",
+    "confirmPasswordPlaceholder": "Réentrez votre nouveau mot de passe",
+    "resetButton": "Réinitialiser le mot de passe",
+    "backToLogin": "Retour à la connexion"
+  }
+
+}

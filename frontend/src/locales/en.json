@@ -1,0 +1,85 @@
+{
+  "login": {
+    "appName": "TaskFlow Pro",
+    "appTagline": "Elevate your productivity",
+    "welcomeBack": "Welcome back",
+    "signInMessage": "Sign in to your account to continue",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "show": "Show",
+    "hide": "Hide",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "orContinueWith": "Or continue with",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "invalidCredentials": "Invalid email or password. Please try again.",
+    "unexpectedError": "An unexpected error occurred. Please try again later.",
+    "footerCopyright": "©2025 Sopra HR Software. All rights reserved.",
+    "footerPrivacy": "Privacy Policy",
+    "footerTerms": "Terms of Service",
+    "footerSupport": "Support",
+    "carousel": [
+      {
+        "title": "Streamline Your Workflow",
+        "description": "Organize tasks, set priorities, and track progress with our intuitive interface designed for maximum productivity.",
+        "icon": "M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"
+      },
+      {
+        "title": "Collaborate Seamlessly",
+        "description": "Work together with your team in real-time. Share projects, assign tasks, and communicate effectively.",
+        "icon": "M3.75 21h16.5M4.5 3h15M5.25 3v18m13.5-18v18M9 6.75h1.5m-1.5 3h1.5m-1.5 3h1.5m3-6H15m-1.5 3H15m-1.5 3H15M9 21v-3.375c0-.621.504-1.125 1.125-1.125h3.75c.621 0 1.125.504 1.125 1.125V21"
+      },
+      {
+        "title": "Track Your Progress",
+        "description": "Monitor your achievements with detailed analytics and insights to optimize your productivity.",
+        "icon": "M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 8V6z"
+      },
+      {
+        "title": "Stay Organized",
+        "description": "Keep everything in one place with smart categorization and powerful search capabilities.",
+        "icon": "M4 6H2v14c0 1.1.9 2 2 2h14v-2H4V6zm16-4H8c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2z"
+      }
+    ]
+  },
+  "forgot": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your email to reset your password.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email address",
+    "sendLink": "Send Reset Link",
+    "successMessage": "If that email is registered, you’ll receive a reset link shortly.",
+    "errorMessage": "Unable to send reset link. Please try again.",
+    "backToLogin": "Back to Login",
+    "codeLabel": "Enter the 6-digit code",
+    "codePlaceholder": "123456",
+    "newPasswordLabel": "New Password",
+    "newPasswordPlaceholder": "Enter your new password",
+    "sendCode": "Send Code",
+    "resetPassword": "Reset Password",
+    "resendCode": "Resend Code",
+    "verifyCode": "Verify Code",
+    "confirmPasswordLabel": "Confirm New Password",
+    "confirmPasswordPlaceholder": "Re-enter your new password",
+    "codeError": "Invalid code. Please try again.",
+    "expiredCode": "Code expired. Please request a new one.",
+    "emailNotFoundError": "This email address does not exist. Please check or create an account."
+  },
+  "reset": {
+    "title": "Reset Password",
+    "subtitle": "Enter your email and the code we sent to reset your password.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "codeLabel": "Code",
+    "codePlaceholder": "Enter the 6-digit code",
+    "passwordLabel": "New Password",
+    "passwordPlaceholder": "Enter your new password",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter your new password",
+    "resetButton": "Reset Password",
+    "backToLogin": "Back to Login"
+  }
+}
